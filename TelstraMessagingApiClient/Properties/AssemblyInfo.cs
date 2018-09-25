@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TelstraMessagingApiClient")]
+[assembly: AssemblyTitle("TelstraMessagingService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TelstraMessagingApiClient")]
+[assembly: AssemblyProduct("TelstraMessagingService")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b43acc4c-fa08-4e23-8551-f0cedef67dfb")]
+[assembly: Guid("85ed1517-7cd4-4d94-a33c-ed4464e696e3")]
 
 // Version information for an assembly consists of the following four values:
 //
